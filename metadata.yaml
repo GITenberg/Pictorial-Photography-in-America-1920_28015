@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '33078'
     url: http://www.gutenberg.org/2009/agents/33078
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28015#Pictorial-Photography-in-America-1920
 gutenberg_bookshelf: Photography
 gutenberg_issued: '2008-02-07'
 gutenberg_type: Text
