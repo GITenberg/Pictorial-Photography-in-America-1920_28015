@@ -1,0 +1,36 @@
+_repo: Pictorial-Photography-in-America-1920_28015
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: White, Clarence H. (Clarence Hudson)
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '35403'
+    url: http://www.gutenberg.org/2009/agents/35403
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Hudson_White
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pictorial Photographers of America
+    alias: America, Pictorial Photographers of
+    gutenberg_agent_id: '33078'
+    url: http://www.gutenberg.org/2009/agents/33078
+description: ''
+gutenberg_bookshelf: Photography
+gutenberg_issued: '2008-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28015'
+language: en
+publication_note: 'New York :  Pictorial Photographers of America;  Tennant and Ward,
+  Publisher''s Agents,  1920'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Photography, Artistic -- Periodicals'
+- !lcc 'TR'
+title: Pictorial Photography in America 1920
+url: http://www.gutenberg.org/ebooks/28015
